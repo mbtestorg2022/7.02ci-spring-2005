@@ -55,11 +55,82 @@ In addition to various in-class and out-of-class exercises, you will be asked to
 Grading
 -------
 
-| AcTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} _In-class Work_ {{< br >}}{{< br >}} Attendance and Participation (In Discussion and In Writing Activities) {{< br >}}{{< br >}} Oral Presentation {{< br >}}{{< br >}} Provides Useful Feedback on his/her Peers' Writing (Peer Tutoring) {{< br >}}{{< br >}}  | 20% |
-|  {{< br >}}{{< br >}} _Out-of-class Work_ {{< br >}}{{< br >}} A) Professional Improvement {{< br >}}{{< br >}} B) Five Non-long Term Project Writing Assignments (To be Announced) {{< br >}}{{< br >}}  | 30% |
-|  {{< br >}}{{< br >}} _Long-Term Project_ {{< br >}}{{< br >}} A) Long-term Project (LTP) Drafts (25%) {{< br >}}{{< br >}} 1\. LTP Intro Draft  {{< br >}}2\. LTP Methods Draft  {{< br >}}3\. LTP Results Draft  {{< br >}}4\. LTP Figures draft  {{< br >}}5\. LTP Discussion draft {{< br >}}{{< br >}} B) Long-term Project Title and Abstract (5%) {{< br >}}{{< br >}} C) Long-term Project Final Draft (20%) {{< br >}}{{< br >}}  | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+AcTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_In-class Work_
+
+Attendance and Participation (In Discussion and In Writing Activities)
+
+Oral Presentation
+
+Provides Useful Feedback on his/her Peers' Writing (Peer Tutoring)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Out-of-class Work_
+
+A) Professional Improvement
+
+B) Five Non-long Term Project Writing Assignments (To be Announced)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Long-Term Project_
+
+A) Long-term Project (LTP) Drafts (25%)
+
+1\. LTP Intro Draft  
+2\. LTP Methods Draft  
+3\. LTP Results Draft  
+4\. LTP Figures draft  
+5\. LTP Discussion draft
+
+B) Long-term Project Title and Abstract (5%)
+
+C) Long-term Project Final Draft (20%)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Revision Policy and Grading Schemes
 -----------------------------------
@@ -74,24 +145,138 @@ A major part of the scientific writing process is revision, and thus you will ha
 
 ### Grading of Oral Presentations
 
-| GRADE | PRESENTATION QUALITY INFORMATION |
-| --- | --- |
-| + | Superior presentation. Talk has structure/organization; presenter has good eye contact/rapport with audience; speaks clearly and correctly. Uses visuals where appropriate. |
-| √+ | Good presentation. Requires only minor improvements in any of the areas above. |
-| √ | Acceptable presentation. Requires moderate improvements in one or more of the areas above. |
-| √- | Poor presentation (doesn’t care or prepare) |
-| 0 | Fails to complete oral presentation. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GRADE
+{{< thclose >}}
+{{< thopen >}}
+PRESENTATION QUALITY INFORMATION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
++
+{{< tdclose >}}
+{{< tdopen >}}
+Superior presentation. Talk has structure/organization; presenter has good eye contact/rapport with audience; speaks clearly and correctly. Uses visuals where appropriate.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+√+
+{{< tdclose >}}
+{{< tdopen >}}
+Good presentation. Requires only minor improvements in any of the areas above.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+√
+{{< tdclose >}}
+{{< tdopen >}}
+Acceptable presentation. Requires moderate improvements in one or more of the areas above.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+√-
+{{< tdclose >}}
+{{< tdopen >}}
+Poor presentation (doesn’t care or prepare)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+Fails to complete oral presentation.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Grading of Writing Assignments
 
-| GRADE | QUALITY OF WRITING EMBODIED BY THIS SCORE |
-| --- | --- |
-| + | Thoroughly superior work. A model of good scientific writing. |
-| √+ | Good work. Requires only minor improvements in any of the following areas: organization of ideas; economy of expression; diction (word choice); grammar/punctuation/spelling. |
-| √ | Acceptable work. Requires moderate revision in one or more of the areas above. |
-| √- | Acceptable but rough work. Requires substantial revision in all areas. |
-| \- | Unacceptable work. |
-| 0 | Assignment not handed in. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GRADE
+{{< thclose >}}
+{{< thopen >}}
+QUALITY OF WRITING EMBODIED BY THIS SCORE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
++
+{{< tdclose >}}
+{{< tdopen >}}
+Thoroughly superior work. A model of good scientific writing.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+√+
+{{< tdclose >}}
+{{< tdopen >}}
+Good work. Requires only minor improvements in any of the following areas: organization of ideas; economy of expression; diction (word choice); grammar/punctuation/spelling.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+√
+{{< tdclose >}}
+{{< tdopen >}}
+Acceptable work. Requires moderate revision in one or more of the areas above.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+√-
+{{< tdclose >}}
+{{< tdopen >}}
+Acceptable but rough work. Requires substantial revision in all areas.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+\-
+{{< tdclose >}}
+{{< tdopen >}}
+Unacceptable work.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment not handed in.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional Information
 ----------------------

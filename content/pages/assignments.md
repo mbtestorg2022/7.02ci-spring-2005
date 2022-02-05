@@ -37,11 +37,270 @@ In addition to various in-class and out-of-class exercises, you will be asked to
 Course Assignments by Session
 -----------------------------
 
-| Lec # | TOPICS | IN CLASS ACTIVITY | ASSIGNMENTS DUE |
-| --- | --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introductions {{< br >}}{{< br >}} Druker, Brian J., et al. "Efficacy and Safety of a Specific Inhibitor of The BCR-ABL Tyrosine Kinase in Chronic Myeloid Leukemia." The New England Journal of Medicine 344, no. 14 (April 5, 2001): 1031-1037. {{< br >}}{{< br >}}  | Three research articles will be distributed in class. Review the introductions and break into small groups to discuss the features they share and the differences between them. What general properties of introductions can you distill? |  {{< br >}}{{< br >}} _Due in Lec 1_ {{< br >}}{{< br >}} Send an email to Neal describing 1) your experiences with writing up scientific content (e.g., lab reports, reviews, research papers), 2) how you would describe yourself as a writer, 3) your writing goals for SciComm, 4) your expectations as areader of research articles. {{< br >}}{{< br >}} _Due on the off week_ {{< br >}}{{< br >}} Paraphrase in plain language (suitable for a high school senior) the Introduction to the Druker, et al. article. {{< br >}}{{< br >}} _Due by next class_ {{< br >}}{{< br >}} Write the introduction to your long-term project. {{< br >}}{{< br >}} Four students (to be contacted) will prepare oral presentations (5 minutes maximum) on the Druker, et al. article: {{< br >}}{{< br >}} Role 1: Summarize the article as a whole.  {{< br >}}Role 2: Identify how introduction establishes context, justification, and focus.  {{< br >}}Role 3: Identify pitfalls of the introduction.  {{< br >}}Role 4: Prepare two to three open-ended questions to lead a class discussion of the article. {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Materials and Methods {{< br >}}{{< br >}} Druker, Brian J., et al. "Efficacy and Safety of a Specific Inhibitor of The BCR-ABL Tyrosine Kinase in Chronic Myeloid Leukemia." _The New England Journal of Medicine_ 344, no. 14 (April 5, 2001): 1031-1037. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Peer reviews of Long-Term Project Introductions. {{< br >}}{{< br >}} Student oral presentations (5 minutes maximum) on the Druker, et al. article. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _Due in Lec 2_ {{< br >}}{{< br >}} Responding to a peer's Long-Term Project Introduction:  {{< br >}}The peer you should respond to is the person who posted his/her LTP Introduction immediately BEFORE yours. {{< br >}}{{< br >}} Your response should be in the form of a file attached as a reply to your peer's message. {{< br >}}{{< br >}} Feel free to use inserted comments or Track Changes to comment within the text, but also offer summary comments. {{< br >}}{{< br >}} _Due on the off week_ {{< br >}}{{< br >}} Paraphrase (suitable for a high-school senior) the introduction to the Druker, et. al. Chronic Myeloid Leukemia article. Remember to label your file with your name and assignment (e.g., Lerner\_Druker\_Intro.doc). {{< br >}}{{< br >}} _Due by next class_ {{< br >}}{{< br >}} Read "The Science of Scientific Writing" for class discussion. Designated students will be giving oral presentations on this article. {{< br >}}{{< br >}} Write a draft of your long-term project Methods section. {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Neal Lerner: Illustrations (Figures) {{< br >}}{{< br >}} Marilee Ogren: Tables and Figures {{< br >}}{{< br >}} Gopen, George D., and Judith A. Swan. "The Science of Scientific Writing." _American Scientist_ 78 (November-December 1990): 550-558. {{< br >}}{{< br >}}  | Class discussion and student oral presentations on "The Science of Scientific Writing". |  {{< br >}}{{< br >}} _Due on the off week_ {{< br >}}{{< br >}} Write a brief critique (2-3 pp.) of "The Science of Scientific Writing." {{< br >}}{{< br >}} Revise LTP introduction. {{< br >}}{{< br >}} _Due by next class_ {{< br >}}{{< br >}} Create two illustrations (tables or figures or other) for your long-term project. {{< br >}}{{< br >}} Find in the published literature for one example of a good illustration and one example of a poor illustration. Print or photocopy them and drop them in NL's mailbox or send as a pdf/tiff/jpg. {{< br >}}{{< br >}} Read the Heyman, et al. paper on Lupus (and the accompanying Perspective article); students responsible for presenting will be contacted with specific roles. {{< br >}}{{< br >}} Revise your Druker, et al. introduction paraphrase. {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Results {{< br >}}{{< br >}} Arbuckle, Melissa R., et al. "Development of Autoantibodies before the Clinical Onset of Systemic Lupus Erythematosus." _The New England Journal of Medicine_ 349 (2003): 1526-33. {{< br >}}{{< br >}} Shmerling, Robert H. "Autoantibodies in Systemic Lupus Erythematosus - There before You Know It." _The New England Journal of Medicine_ 349, no. 16 (October 16, 2003): 1499-1500. {{< br >}}{{< br >}}  | Class discussion and student oral presentations on the Heyman, et al. paper on Lupus. |  {{< br >}}{{< br >}} _Due on the off week_ {{< br >}}{{< br >}} Write a brief critique (2-3 pp.) of Arbuckle, et al. “Lupus” article, focusing on the illustrations. {{< br >}}{{< br >}} _Due by next class_ {{< br >}}{{< br >}} Write a Results section for your long-term project. {{< br >}}{{< br >}} Read the Lapostolle, et al. "Pulmonary Embolism" article (and the accompanying Editor's Perspective); students responsible for presenting will be contacted with specific roles. {{< br >}}{{< br >}} Revise your LTP Methods. {{< br >}}{{< br >}} Revise your Druker, et al. CML introduction paraphrase. {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Neal Lerner: Discussions {{< br >}}{{< br >}} Marilee Ogren: Discussions/Conclusions {{< br >}}{{< br >}} Lapostolle, Frédéric, et al. "Severe Pulmonary Embolism Associated With Air Travel." _The New England Journal of Medicine_ 345, no. 11 (September 13, 2001): 779-783. {{< br >}}{{< br >}} Editorial. "Air Travel and various Thromboembolism- Is The Evidence In?" _The New England Journal of Medicine_ 345, no. 11 (September 13, 2001): 828-829. {{< br >}}{{< br >}}  | Class discussion and student oral presentations on the Lapostolle, et al. "Pulmonary Embolism" article. |  {{< br >}}{{< br >}} _Due on the off week_ {{< br >}}{{< br >}} Write a critique of the LaPostelle, et al. paper on pulmonary embolism, focusing on the Results section. {{< br >}}{{< br >}} Submit a revised critique of “The Science of Scientific Writing” (if you choose). {{< br >}}{{< br >}} Submit revised LTP Illustrations (if you choose). {{< br >}}{{< br >}} _Due by next class_ {{< br >}}{{< br >}} Write up the Discussion/Conclusion section of your Long-Term Project. {{< br >}}{{< br >}} Read S. Michael Halloran's "The Birth of Molecular Biology" and Watson and Crick's "A Structure for DNA" for class discussion. Students who will present on these articles will be contacted. {{< br >}}{{< br >}} Submit revised LTP Results (if you choose). {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Title and Abstract {{< br >}}{{< br >}} Watson, J. D., and F. H. C. Crick. "Molecular Structure of Nucleic Acids." _Nature_ 191, no. 4356 (April 25, 1953): 737-738. {{< br >}}{{< br >}} Halloran, S. Michael. "The Birth of Molecular Biology: An Essay in the rhetorical Criticism of Scientific Discourse." _Rhetoric Review_ 3, no. 1 (September 1984): 70-83. {{< br >}}{{< br >}}  | Class discussion and student oral presentations on S. Michael Halloran's "The Birth of Molecular Biology" and Watson and Crick's "A Structure for DNA". |  {{< br >}}{{< br >}} _Due by end of term_ {{< br >}}{{< br >}} Write a title and abstract for your long-term project, which we will discuss during your conference. {{< br >}}{{< br >}} Revise critique of Lupus article. {{< br >}}{{< br >}} Submit final versions of long-term projects to me in my office or in my mailbox (unless you request an extension). Turn in course evaluation form with your long-term project. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+IN CLASS ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS DUE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introductions
+
+Druker, Brian J., et al. "Efficacy and Safety of a Specific Inhibitor of The BCR-ABL Tyrosine Kinase in Chronic Myeloid Leukemia." The New England Journal of Medicine 344, no. 14 (April 5, 2001): 1031-1037.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Three research articles will be distributed in class. Review the introductions and break into small groups to discuss the features they share and the differences between them. What general properties of introductions can you distill?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Due in Lec 1_
+
+Send an email to Neal describing 1) your experiences with writing up scientific content (e.g., lab reports, reviews, research papers), 2) how you would describe yourself as a writer, 3) your writing goals for SciComm, 4) your expectations as areader of research articles.
+
+_Due on the off week_
+
+Paraphrase in plain language (suitable for a high school senior) the Introduction to the Druker, et al. article.
+
+_Due by next class_
+
+Write the introduction to your long-term project.
+
+Four students (to be contacted) will prepare oral presentations (5 minutes maximum) on the Druker, et al. article:
+
+Role 1: Summarize the article as a whole.  
+Role 2: Identify how introduction establishes context, justification, and focus.  
+Role 3: Identify pitfalls of the introduction.  
+Role 4: Prepare two to three open-ended questions to lead a class discussion of the article.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Materials and Methods
+
+Druker, Brian J., et al. "Efficacy and Safety of a Specific Inhibitor of The BCR-ABL Tyrosine Kinase in Chronic Myeloid Leukemia." _The New England Journal of Medicine_ 344, no. 14 (April 5, 2001): 1031-1037.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Peer reviews of Long-Term Project Introductions.
+
+Student oral presentations (5 minutes maximum) on the Druker, et al. article.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Due in Lec 2_
+
+Responding to a peer's Long-Term Project Introduction:  
+The peer you should respond to is the person who posted his/her LTP Introduction immediately BEFORE yours.
+
+Your response should be in the form of a file attached as a reply to your peer's message.
+
+Feel free to use inserted comments or Track Changes to comment within the text, but also offer summary comments.
+
+_Due on the off week_
+
+Paraphrase (suitable for a high-school senior) the introduction to the Druker, et. al. Chronic Myeloid Leukemia article. Remember to label your file with your name and assignment (e.g., Lerner\_Druker\_Intro.doc).
+
+_Due by next class_
+
+Read "The Science of Scientific Writing" for class discussion. Designated students will be giving oral presentations on this article.
+
+Write a draft of your long-term project Methods section.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Neal Lerner: Illustrations (Figures)
+
+Marilee Ogren: Tables and Figures
+
+Gopen, George D., and Judith A. Swan. "The Science of Scientific Writing." _American Scientist_ 78 (November-December 1990): 550-558.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Class discussion and student oral presentations on "The Science of Scientific Writing".
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Due on the off week_
+
+Write a brief critique (2-3 pp.) of "The Science of Scientific Writing."
+
+Revise LTP introduction.
+
+_Due by next class_
+
+Create two illustrations (tables or figures or other) for your long-term project.
+
+Find in the published literature for one example of a good illustration and one example of a poor illustration. Print or photocopy them and drop them in NL's mailbox or send as a pdf/tiff/jpg.
+
+Read the Heyman, et al. paper on Lupus (and the accompanying Perspective article); students responsible for presenting will be contacted with specific roles.
+
+Revise your Druker, et al. introduction paraphrase.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Results
+
+Arbuckle, Melissa R., et al. "Development of Autoantibodies before the Clinical Onset of Systemic Lupus Erythematosus." _The New England Journal of Medicine_ 349 (2003): 1526-33.
+
+Shmerling, Robert H. "Autoantibodies in Systemic Lupus Erythematosus - There before You Know It." _The New England Journal of Medicine_ 349, no. 16 (October 16, 2003): 1499-1500.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Class discussion and student oral presentations on the Heyman, et al. paper on Lupus.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Due on the off week_
+
+Write a brief critique (2-3 pp.) of Arbuckle, et al. “Lupus” article, focusing on the illustrations.
+
+_Due by next class_
+
+Write a Results section for your long-term project.
+
+Read the Lapostolle, et al. "Pulmonary Embolism" article (and the accompanying Editor's Perspective); students responsible for presenting will be contacted with specific roles.
+
+Revise your LTP Methods.
+
+Revise your Druker, et al. CML introduction paraphrase.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Neal Lerner: Discussions
+
+Marilee Ogren: Discussions/Conclusions
+
+Lapostolle, Frédéric, et al. "Severe Pulmonary Embolism Associated With Air Travel." _The New England Journal of Medicine_ 345, no. 11 (September 13, 2001): 779-783.
+
+Editorial. "Air Travel and various Thromboembolism- Is The Evidence In?" _The New England Journal of Medicine_ 345, no. 11 (September 13, 2001): 828-829.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Class discussion and student oral presentations on the Lapostolle, et al. "Pulmonary Embolism" article.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Due on the off week_
+
+Write a critique of the LaPostelle, et al. paper on pulmonary embolism, focusing on the Results section.
+
+Submit a revised critique of “The Science of Scientific Writing” (if you choose).
+
+Submit revised LTP Illustrations (if you choose).
+
+_Due by next class_
+
+Write up the Discussion/Conclusion section of your Long-Term Project.
+
+Read S. Michael Halloran's "The Birth of Molecular Biology" and Watson and Crick's "A Structure for DNA" for class discussion. Students who will present on these articles will be contacted.
+
+Submit revised LTP Results (if you choose).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Title and Abstract
+
+Watson, J. D., and F. H. C. Crick. "Molecular Structure of Nucleic Acids." _Nature_ 191, no. 4356 (April 25, 1953): 737-738.
+
+Halloran, S. Michael. "The Birth of Molecular Biology: An Essay in the rhetorical Criticism of Scientific Discourse." _Rhetoric Review_ 3, no. 1 (September 1984): 70-83.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Class discussion and student oral presentations on S. Michael Halloran's "The Birth of Molecular Biology" and Watson and Crick's "A Structure for DNA".
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Due by end of term_
+
+Write a title and abstract for your long-term project, which we will discuss during your conference.
+
+Revise critique of Lupus article.
+
+Submit final versions of long-term projects to me in my office or in my mailbox (unless you request an extension). Turn in course evaluation form with your long-term project.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
